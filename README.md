@@ -1,4 +1,4 @@
-# Les basiques de markdown
+# Les basiques de MARKDOWN
 ## Titre 2
 ### Titre 3
 wesh wesh canapêche **grasse**
